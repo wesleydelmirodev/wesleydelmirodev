@@ -67,7 +67,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <div align="center">
 
-### 𝙻𝚒𝚗𝚐𝚞𝚊𝚐𝚎𝚗𝚜 𝚎 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜
+### Linguagens e Tecnologias
 
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git" />
