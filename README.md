@@ -79,7 +79,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <img
     src="https://www.pngkey.com/png/full/750-7509041_clippy-png.png"
-    width="150"
+    width="130"
     align="right"
     hspace="15"
 />
