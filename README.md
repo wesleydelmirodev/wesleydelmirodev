@@ -24,9 +24,10 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
             src="https://github-stats-extended.vercel.app/api/top-langs/?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&layout=compact"
         />
     </a>
+
 </div>
 
-<!--Estatísticas-->
+<!-- Estatísticas -->
 
 <br>
 <p align="center">
@@ -64,6 +65,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 </div>
 
+<!-- Linguagens e tecnologias -->
 
 <div align="center">
 
@@ -75,4 +77,8 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 </div>
 
-
+<img
+    src="https://www.freeiconspng.com/uploads/command-line-icon-12.png"
+    width="55"
+    style="filter: brightness(0) invert(1);"
+/>
