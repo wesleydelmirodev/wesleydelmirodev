@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cabeçalho -->
-<h1 align="center" style="font-size: 60px;">𝚆𝚎𝚜𝚕𝚎𝚢 𝙶𝚊𝚋𝚛𝚒𝚎𝚕</h1>
+<h1 align="center" style="font-size: 60px;">Wesley Gabriel</h1>
 <p align="center">
     <code><i>< 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 | 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /></i></code>
 </p>
