@@ -78,7 +78,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 </div>
 
 <img
-    src="https://www.freeiconspng.com/uploads/command-line-icon-12.png"
-    width="55"
+    src="https://www.pngkey.com/png/full/750-7509041_clippy-png.png"
+    width="180px"
     style="filter: brightness(0) invert(1);"
 />
