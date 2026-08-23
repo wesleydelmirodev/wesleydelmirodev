@@ -75,15 +75,15 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 </div>
 <img
     src="https://vignette.wikia.nocookie.net/baldinite/images/9/92/Of9cm1.gif/revision/latest/top-crop/width/360/height/450?cb=20181028122046"
-    width="80"
+    width="75"
     align="right"
     hspace="90"
 >
 <img
     src="https://i.imgur.com/RjMRqmK.png"
-    width="60"
+    width="55"
     align="left"
-    hspace="140"
+    hspace="120"
 >
 
 
@@ -99,7 +99,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <img
     src="https://media.tenor.com/V-IRBuQOByoAAAAj/merlin-microsoft-xp.gif"
-    width="160"
+    width="130"
     align="left"
     hspace="100"
 />
