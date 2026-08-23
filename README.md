@@ -73,13 +73,27 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git" />
-<br>
-
-</div>
 
 <img
     src="https://www.pngkey.com/png/full/750-7509041_clippy-png.png"
     width="130"
     align="right"
+/>
+
+</div>
+
+
+<!-- Atualmente aprendendo -->
+<br clear="right">
+
+<div align="center">
+<h2 align="center">Aprendendo atualmente</h2>
+Atualmente estou fortalecendo meus conhecimentos em PHP, Java e Lua.  
+</div>
+
+<img
+    src="https://media.tenor.com/V-IRBuQOByoAAAAj/merlin-microsoft-xp.gif"
+    width="130"
+    align="left"
     hspace="15"
 />
