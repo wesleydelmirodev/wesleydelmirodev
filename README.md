@@ -79,14 +79,6 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
     align="right"
     hspace="90"
 >
-<img
-    src="https://i.imgur.com/RjMRqmK.png"
-    width="55"
-    align="left"
-    hspace="120"
->
-
-
 
 <br><br>
 <br clear="both">
