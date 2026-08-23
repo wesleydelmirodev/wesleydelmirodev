@@ -70,25 +70,21 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 <div align="center">
 
 ### Linguagens e Tecnologias
-
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 <img
     src="https://www.pngkey.com/png/full/750-7509041_clippy-png.png"
-    width="130"
+    width="110"
     align="right"
-/>
-
-</div>
-
+>
 
 <!-- Atualmente aprendendo -->
 <br clear="right">
 
 <div align="center">
 <h2 align="center">Aprendendo atualmente</h2>
-Atualmente estou fortalecendo meus conhecimentos em PHP, Java e Lua.  
+𝙰𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚜𝚝𝚘𝚞 𝚏𝚘𝚛𝚝𝚊𝚕𝚎𝚌𝚎𝚗𝚍𝚘 𝚖𝚎𝚞𝚜 𝚌𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜 𝚎𝚖 𝙿𝙷𝙿, 𝙹𝚊𝚟𝚊 𝚎 𝙻𝚞𝚊. 𝙴𝚜𝚝𝚘𝚞 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚊𝚗𝚍𝚘 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚞𝚖 𝚙𝚛𝚘𝚓𝚎𝚝𝚘 𝚗𝚊 𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊 𝚁𝚘𝚋𝚕𝚘𝚡.
 </div>
 
 <img
