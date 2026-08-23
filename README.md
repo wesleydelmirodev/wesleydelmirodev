@@ -14,14 +14,14 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 <div align="center" style="margin-bottom:10px;">
     <a href="https://github.com/wesleydelmirodev">
         <img
-            width="49%"
+            width="50%"
             height="180"
             src="https://github-stats-extended.vercel.app/api?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&show_icons=true&v=2"
         />
     </a>
     <a href="https://github.com/wesleydelmirodev">
         <img
-            width="49%"
+            width="48%"
             height="180"
             src="https://github-stats-extended.vercel.app/api/top-langs/?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&layout=compact&langs_count=4&v=2"
         />
