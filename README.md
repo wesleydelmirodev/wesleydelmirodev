@@ -71,25 +71,32 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 ### Linguagens e Tecnologias
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git">
+
 </div>
 <img
     src="https://vignette.wikia.nocookie.net/baldinite/images/9/92/Of9cm1.gif/revision/latest/top-crop/width/360/height/450?cb=20181028122046"
     width="80"
     align="right"
-    hspace=90
+    hspace="90"
 >
-<!-- Atualmente aprendendo -->
-<br clear="right">
+
+
+
+<br><br>
+<br clear="both">
 
 <div align="center">
+
 <h2 align="center"><strong>𝙰𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘 𝚊𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎</strong></h2>
+
 𝙰𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚜𝚝𝚘𝚞 𝚏𝚘𝚛𝚝𝚊𝚕𝚎𝚌𝚎𝚗𝚍𝚘 𝚖𝚎𝚞𝚜 𝚌𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜 𝚎𝚖 𝙿𝙷𝙿, 𝙹𝚊𝚟𝚊 𝚎 𝙻𝚞𝚊. 𝙴𝚜𝚝𝚘𝚞 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚊𝚗𝚍𝚘 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚞𝚖 𝚙𝚛𝚘𝚓𝚎𝚝𝚘 𝚗𝚊 𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊 𝚁𝚘𝚋𝚕𝚘𝚡.
-</div>
 
 <img
     src="https://media.tenor.com/V-IRBuQOByoAAAAj/merlin-microsoft-xp.gif"
-    width="130"
+    width="160"
     align="left"
-    hspace=90
+    hspace="100"
 />
+
+</div>
