@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cabeçalho -->
-<h1 align="center"><strong>𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</strong></h1>
+<h1 align="center"><strong>Sobre mim</strong></h1>
 <p align="center">
     <code><i>< 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 | 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /></i></code>
 </p>
@@ -88,7 +88,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <div align="center">
 
-<h2 align="center"><strong>𝙰𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘 𝚊𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎</strong></h2>
+<h2 align="center"><strong>Aprendendo Atualmente</strong></h2>
 
 𝙰𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚜𝚝𝚘𝚞 𝚏𝚘𝚛𝚝𝚊𝚕𝚎𝚌𝚎𝚗𝚍𝚘 𝚖𝚎𝚞𝚜 𝚌𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜 𝚎𝚖 𝙿𝙷𝙿, 𝙹𝚊𝚟𝚊 𝚎 𝙻𝚞𝚊. 𝙴𝚜𝚝𝚘𝚞 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚊𝚗𝚍𝚘 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚞𝚖 𝚙𝚛𝚘𝚓𝚎𝚝𝚘 𝚗𝚊 𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊 𝚁𝚘𝚋𝚕𝚘𝚡.
 
