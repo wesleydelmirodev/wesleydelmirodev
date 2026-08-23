@@ -96,7 +96,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
     src="https://media.tenor.com/V-IRBuQOByoAAAAj/merlin-microsoft-xp.gif"
     width="160"
     align="left"
-    hspace="130"
+    hspace="100"
 />
 
 </div>
