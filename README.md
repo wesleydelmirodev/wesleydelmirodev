@@ -74,8 +74,8 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <img
-    src="https://www.pngkey.com/png/full/750-7509041_clippy-png.png"
-    width="110"
+    src="https://vignette.wikia.nocookie.net/baldinite/images/9/92/Of9cm1.gif/revision/latest/top-crop/width/360/height/450?cb=20181028122046"
+    width="100"
     align="right"
 >
 
