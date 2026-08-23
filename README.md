@@ -62,8 +62,6 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
     </a>
 </p>
 
-
-
 </div>
 
 <!-- Linguagens e tecnologias -->
@@ -72,7 +70,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 ### Linguagens e Tecnologias
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,git">
+<img src="https://skillicons.dev/icons?i=js,python,php,java,spring,git">
 
 </div>
 <img
@@ -80,6 +78,12 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
     width="80"
     align="right"
     hspace="90"
+>
+<img
+    src="https://i.imgur.com/RjMRqmK.png"
+    width="60"
+    align="left"
+    hspace="140"
 >
 
 
