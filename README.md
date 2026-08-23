@@ -15,13 +15,13 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
     <a href="https://github.com/wesleydelmirodev">
         <img
             width="49%"
-            src="https://github-stats-extended.vercel.app/api?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&show_icons=true"
+            src="https://github-stats-extended.vercel.app/api?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&show_icons=true&v=2"
         />
     </a>
     <a href="https://github.com/wesleydelmirodev">
         <img
             width="49%"
-            src="https://github-stats-extended.vercel.app/api/top-langs/?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&layout=compact"
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=wesleydelmirodev&bg_color=0D1117&title_color=FF4D6D&text_color=E6EDF3&icon_color=FF4D6D&border_color=C9184A&hide_border=false&border_radius=10&layout=compact&v=2"
         />
     </a>
 
