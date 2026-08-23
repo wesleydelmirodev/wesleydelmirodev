@@ -30,7 +30,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <!-- Estatísticas -->
 
-<br><br>
+<br>
 <p align="center">
     <a href="https://github.com/wesleydelmirodev?tab=repositories&sort=stargazers">
         <img
