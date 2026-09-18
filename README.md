@@ -87,7 +87,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 <h2 align="center"><strong>Aprendendo Atualmente</strong></h2>
 
-𝙰𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚜𝚝𝚘𝚞 𝚏𝚘𝚛𝚝𝚊𝚕𝚎𝚌𝚎𝚗𝚍𝚘 𝚖𝚎𝚞𝚜 𝚌𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜 𝚎𝚖 𝙿𝙷𝙿, 𝙹𝚊𝚟𝚊 𝚎 𝙻𝚞𝚊. 𝙴𝚜𝚝𝚘𝚞 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚊𝚗𝚍𝚘 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚞𝚖 𝚙𝚛𝚘𝚓𝚎𝚝𝚘 𝚗𝚊 𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊 𝚁𝚘𝚋𝚕𝚘𝚡.
+Em meu curso de Análise e Desenvolvimento de Sistemas, estou aprendendo mais sobre Java e PHP. Atualmente trabalhando em um projeto de um sistema operacional simples em C.
 
 <img
     src="https://media.tenor.com/V-IRBuQOByoAAAAj/merlin-microsoft-xp.gif"
