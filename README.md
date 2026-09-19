@@ -70,7 +70,7 @@ Atualmente, estou cursando o ensino médio em 𝙰𝚗á𝚕𝚒𝚜𝚎 𝚎 �
 
 ### Linguagens e Tecnologias
 <br>
-<img src="https://skillicons.dev/icons?i=js,python,php,java,spring,git,docker,c">
+<img src="https://skillicons.dev/icons?i=js,python,php,java,spring,git,docker">
 
 </div>
 <img
