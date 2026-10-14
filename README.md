@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Cabeçalho -->
-<h1 align="center"><strong>Sobre mim</strong></h1>
+<div align="center">
+    <img src="./images/Sobre_Mim_letras.png" alt="Sobre Mim">
+</div>
 <p align="center">
     <code><i>< 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 | 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /></i></code>
 </p>
